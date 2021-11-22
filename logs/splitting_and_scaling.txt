@@ -1,0 +1,70 @@
+2021-10-26 00:24:45,845 - INFO - scaling - Start scaling the data
+2021-10-26 00:24:45,845 - INFO - split - Start splitting dataset into training and test set
+2021-10-26 00:24:45,850 - INFO - split - Training and test set split completed
+2021-10-26 00:24:45,864 - INFO - scaling - Data scaling completed
+2021-10-26 00:24:45,866 - INFO - scaling - scaling model saved
+2021-10-26 00:27:08,201 - INFO - scaling - Start scaling the data
+2021-10-26 00:27:08,201 - INFO - split - Start splitting dataset into training and test set
+2021-10-26 00:27:08,209 - INFO - split - Training and test set split completed
+2021-10-26 00:27:08,218 - INFO - scaling - Data scaling completed
+2021-10-26 00:27:08,221 - INFO - scaling - scaling model saved
+2021-11-03 00:06:27,459 - INFO - scaling - Start scaling the data
+2021-11-03 00:06:27,460 - INFO - split - Start splitting dataset into training and test set
+2021-11-03 00:06:27,523 - INFO - split - Training and test set split completed
+2021-11-03 00:06:27,544 - INFO - scaling - Data scaling completed
+2021-11-03 00:06:27,546 - INFO - scaling - scaling model saved
+2021-11-03 00:09:07,960 - INFO - scaling - Start scaling the data
+2021-11-03 00:09:07,960 - INFO - split - Start splitting dataset into training and test set
+2021-11-03 00:09:07,972 - INFO - split - Training and test set split completed
+2021-11-03 00:09:07,988 - INFO - scaling - Data scaling completed
+2021-11-03 00:09:07,990 - INFO - scaling - scaling model saved
+2021-11-03 00:31:42,464 - INFO - scaling - Start scaling the data
+2021-11-03 00:31:42,465 - INFO - split - Start splitting dataset into training and test set
+2021-11-03 00:31:42,479 - INFO - split - Training and test set split completed
+2021-11-03 00:31:42,496 - INFO - scaling - Data scaling completed
+2021-11-03 00:31:42,497 - INFO - scaling - scaling model saved
+2021-11-03 00:34:10,671 - INFO - scaling - Start scaling the data
+2021-11-03 00:34:10,671 - INFO - split - Start splitting dataset into training and test set
+2021-11-03 00:34:10,678 - INFO - split - Training and test set split completed
+2021-11-03 00:34:10,691 - INFO - scaling - Data scaling completed
+2021-11-03 00:34:10,691 - INFO - scaling - scaling model saved
+2021-11-03 01:43:06,076 - INFO - scaling - Start scaling the data
+2021-11-03 01:43:06,083 - INFO - split - Start splitting dataset into training and test set
+2021-11-03 01:43:06,090 - INFO - split - Training and test set split completed
+2021-11-03 01:43:06,098 - INFO - scaling - Data scaling completed
+2021-11-03 01:43:06,099 - INFO - scaling - scaling model saved
+2021-11-03 01:44:26,133 - INFO - scaling - Start scaling the data
+2021-11-03 01:44:26,134 - INFO - split - Start splitting dataset into training and test set
+2021-11-03 01:44:26,140 - INFO - split - Training and test set split completed
+2021-11-03 01:44:26,150 - INFO - scaling - Data scaling completed
+2021-11-03 01:44:26,151 - INFO - scaling - scaling model saved
+2021-11-03 01:51:09,985 - INFO - scaling - Start scaling the data
+2021-11-03 01:51:09,985 - INFO - split - Start splitting dataset into training and test set
+2021-11-03 01:51:09,992 - INFO - split - Training and test set split completed
+2021-11-03 01:51:09,998 - INFO - scaling - Data scaling completed
+2021-11-03 01:51:09,998 - INFO - scaling - scaling model saved
+2021-11-03 01:52:26,376 - INFO - scaling - Start scaling the data
+2021-11-03 01:52:26,376 - INFO - split - Start splitting dataset into training and test set
+2021-11-03 01:52:26,380 - INFO - split - Training and test set split completed
+2021-11-03 01:52:26,387 - INFO - scaling - Data scaling completed
+2021-11-03 01:52:26,388 - INFO - scaling - scaling model saved
+2021-11-03 02:05:36,014 - INFO - scaling - Start scaling the data
+2021-11-03 02:05:36,015 - INFO - split - Start splitting dataset into training and test set
+2021-11-03 02:05:36,021 - INFO - split - Training and test set split completed
+2021-11-03 02:05:36,028 - INFO - scaling - Data scaling completed
+2021-11-03 02:05:36,028 - INFO - scaling - scaling model saved
+2021-11-03 02:06:52,594 - INFO - scaling - Start scaling the data
+2021-11-03 02:06:52,594 - INFO - split - Start splitting dataset into training and test set
+2021-11-03 02:06:52,598 - INFO - split - Training and test set split completed
+2021-11-03 02:06:52,606 - INFO - scaling - Data scaling completed
+2021-11-03 02:06:52,607 - INFO - scaling - scaling model saved
+2021-11-06 20:06:36,126 - INFO - scaling - Start scaling the data
+2021-11-06 20:06:36,142 - INFO - split - Start splitting dataset into training and test set
+2021-11-06 20:06:36,398 - INFO - split - Training and test set split completed
+2021-11-06 20:06:36,406 - INFO - scaling - Data scaling completed
+2021-11-06 20:06:36,407 - INFO - scaling - scaling model saved
+2021-11-06 20:08:20,485 - INFO - scaling - Start scaling the data
+2021-11-06 20:08:20,485 - INFO - split - Start splitting dataset into training and test set
+2021-11-06 20:08:20,491 - INFO - split - Training and test set split completed
+2021-11-06 20:08:20,498 - INFO - scaling - Data scaling completed
+2021-11-06 20:08:20,498 - INFO - scaling - scaling model saved

@@ -1,0 +1,198 @@
+2021-10-26 00:24:45,842 - INFO - __init__ - Started calling Splitting_Scaling file
+2021-10-26 00:24:45,844 - INFO - __init__ - Splitting_Scaling file called Successfully.
+2021-10-26 00:24:45,845 - INFO - model_result - Finding best model..
+2021-10-26 00:24:45,845 - INFO - et_tuning - Train-Test Split
+2021-10-26 00:24:45,867 - INFO - et_tuning - ExtraTree Regressor: Model Tuning Started
+2021-10-26 00:24:45,867 - INFO - parameters - Trying to set hyper-parameters
+2021-10-26 00:24:45,867 - INFO - parameters - Hyper-parameters is successfully set.
+2021-10-26 00:26:51,354 - INFO - et_tuning - ExtraTree Regressor:Best Parameters found.
+2021-10-26 00:26:51,355 - INFO - et_tuning - ExtraTree Regressor:Using best parameter model tuning done.
+2021-10-26 00:27:04,805 - INFO - et_tuning - ExtraTree Regressor:Training data fitted to tuned model.
+2021-10-26 00:27:04,806 - INFO - et_tuning - ExtraTree Regressor:Finding train and test accuracy
+2021-10-26 00:27:08,172 - INFO - et_tuning - ExtraTree Regressor:train accuracy:0.9002389589006947 and Test accuracy: 0.7709793798300768
+2021-10-26 00:27:08,172 - INFO - et_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-10-26 00:27:08,175 - INFO - et_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.2178205836376292
+2021-10-26 00:27:08,175 - INFO - et_tuning - ExtraTree Regressor:Saving accuracy scores and error metrices into dictionary
+2021-10-26 00:27:08,175 - INFO - et_tuning - ExtraTree Regressor:All the details are Succesfully saved into dictionary
+2021-10-26 00:27:08,200 - INFO - parameters - Trying to set hyper-parameters
+2021-10-26 00:27:08,201 - INFO - parameters - Hyper-parameters is successfully set.
+2021-10-26 00:27:08,222 - INFO - rf_tuning - RandomForestRegressor: Train-Test Split
+2021-10-26 00:27:08,222 - INFO - rf_tuning - RandomForestRegressor: Model Tuning Started
+2021-10-26 00:30:46,526 - INFO - rf_tuning - RandomForestRegressor: Best parameter found.
+2021-10-26 00:31:16,802 - INFO - rf_tuning - RandomForestRegressor: Success-fit model using best params
+2021-10-26 00:31:16,802 - INFO - rf_tuning - RandomForestRegressor:Finding train and test accuracy
+2021-10-26 00:31:20,933 - INFO - rf_tuning - RandomForest Regressor:train accuracy:0.9353243958101025 and Test accuracy: 0.7996568453341045
+2021-10-26 00:31:20,934 - INFO - rf_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-10-26 00:31:20,936 - INFO - rf_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.20372713520026273
+2021-10-26 00:31:20,936 - INFO - rf_tuning - RandomForest Regressor:Saving accuracy scores and error metrices into dictionary
+2021-10-26 00:31:20,964 - INFO - rf_tuning - RandomForest Regressor:All the details are Succesfully saved into dictionary
+2021-11-03 00:06:27,435 - INFO - __init__ - Started calling Splitting_Scaling file
+2021-11-03 00:06:27,457 - INFO - __init__ - Splitting_Scaling file called Successfully.
+2021-11-03 00:06:27,458 - INFO - model_result - Finding best model..
+2021-11-03 00:06:27,458 - INFO - et_tuning - Train-Test Split
+2021-11-03 00:06:27,547 - INFO - et_tuning - ExtraTree Regressor: Model Tuning Started
+2021-11-03 00:06:27,547 - INFO - parameters - Trying to set hyper-parameters
+2021-11-03 00:06:27,547 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-03 00:08:51,279 - INFO - et_tuning - ExtraTree Regressor:Best Parameters found.
+2021-11-03 00:08:51,280 - INFO - et_tuning - ExtraTree Regressor:Using best parameter model tuning done.
+2021-11-03 00:09:01,562 - INFO - et_tuning - ExtraTree Regressor:Training data fitted to tuned model.
+2021-11-03 00:09:01,562 - INFO - et_tuning - ExtraTree Regressor:Finding train and test accuracy
+2021-11-03 00:09:07,906 - INFO - et_tuning - ExtraTree Regressor:train accuracy:0.8999590846376609 and Test accuracy: 0.7705521895318321
+2021-11-03 00:09:07,906 - INFO - et_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-03 00:09:07,910 - INFO - et_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.21802363847325357
+2021-11-03 00:09:07,910 - INFO - et_tuning - ExtraTree Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-03 00:09:07,911 - INFO - et_tuning - ExtraTree Regressor:All the details are Succesfully saved into dictionary
+2021-11-03 00:09:07,959 - INFO - parameters - Trying to set hyper-parameters
+2021-11-03 00:09:07,960 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-03 00:09:07,990 - INFO - rf_tuning - RandomForestRegressor: Train-Test Split
+2021-11-03 00:09:07,990 - INFO - rf_tuning - RandomForestRegressor: Model Tuning Started
+2021-11-03 00:13:00,291 - INFO - rf_tuning - RandomForestRegressor: Best parameter found.
+2021-11-03 00:13:34,126 - INFO - rf_tuning - RandomForestRegressor: Success-fit model using best params
+2021-11-03 00:13:34,126 - INFO - rf_tuning - RandomForestRegressor:Finding train and test accuracy
+2021-11-03 00:13:37,248 - INFO - rf_tuning - RandomForest Regressor:train accuracy:0.935634839421485 and Test accuracy: 0.8002859133006304
+2021-11-03 00:13:37,248 - INFO - rf_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-03 00:13:37,249 - INFO - rf_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.2034070369772716
+2021-11-03 00:13:37,249 - INFO - rf_tuning - RandomForest Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-03 00:13:37,433 - INFO - rf_tuning - RandomForest Regressor:All the details are Succesfully saved into dictionary
+2021-11-03 00:31:42,462 - INFO - __init__ - Started calling Splitting_Scaling file
+2021-11-03 00:31:42,463 - INFO - __init__ - Splitting_Scaling file called Successfully.
+2021-11-03 00:31:42,464 - INFO - model_result - Finding best model..
+2021-11-03 00:31:42,464 - INFO - et_tuning - Train-Test Split
+2021-11-03 00:31:42,498 - INFO - et_tuning - ExtraTree Regressor: Model Tuning Started
+2021-11-03 00:31:42,498 - INFO - parameters - Trying to set hyper-parameters
+2021-11-03 00:31:42,498 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-03 00:33:39,897 - INFO - et_tuning - ExtraTree Regressor:Best Parameters found.
+2021-11-03 00:33:39,897 - INFO - et_tuning - ExtraTree Regressor:Using best parameter model tuning done.
+2021-11-03 00:34:04,671 - INFO - et_tuning - ExtraTree Regressor:Training data fitted to tuned model.
+2021-11-03 00:34:04,672 - INFO - et_tuning - ExtraTree Regressor:Finding train and test accuracy
+2021-11-03 00:34:10,633 - INFO - et_tuning - ExtraTree Regressor:train accuracy:0.9006461423351595 and Test accuracy: 0.7720016088037838
+2021-11-03 00:34:10,633 - INFO - et_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-03 00:34:10,636 - INFO - et_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.21733392106118785
+2021-11-03 00:34:10,636 - INFO - et_tuning - ExtraTree Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-03 00:34:10,636 - INFO - et_tuning - ExtraTree Regressor:All the details are Succesfully saved into dictionary
+2021-11-03 00:34:10,670 - INFO - parameters - Trying to set hyper-parameters
+2021-11-03 00:34:10,671 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-03 00:34:10,691 - INFO - rf_tuning - RandomForestRegressor: Train-Test Split
+2021-11-03 00:34:10,692 - INFO - rf_tuning - RandomForestRegressor: Model Tuning Started
+2021-11-03 00:38:26,614 - INFO - rf_tuning - RandomForestRegressor: Best parameter found.
+2021-11-03 00:39:29,429 - INFO - rf_tuning - RandomForestRegressor: Success-fit model using best params
+2021-11-03 00:39:29,429 - INFO - rf_tuning - RandomForestRegressor:Finding train and test accuracy
+2021-11-03 00:39:34,969 - INFO - rf_tuning - RandomForest Regressor:train accuracy:0.9352951919465691 and Test accuracy: 0.7995195766551972
+2021-11-03 00:39:34,970 - INFO - rf_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-03 00:39:34,971 - INFO - rf_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.20379691688597432
+2021-11-03 00:39:34,971 - INFO - rf_tuning - RandomForest Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-03 00:39:34,995 - INFO - rf_tuning - RandomForest Regressor:All the details are Succesfully saved into dictionary
+2021-11-03 01:43:06,059 - INFO - __init__ - Started calling Splitting_Scaling file
+2021-11-03 01:43:06,076 - INFO - __init__ - Splitting_Scaling file called Successfully.
+2021-11-03 01:43:06,076 - INFO - model_result - Finding best model..
+2021-11-03 01:43:06,076 - INFO - et_tuning - Train-Test Split
+2021-11-03 01:43:06,099 - INFO - et_tuning - ExtraTree Regressor: Model Tuning Started
+2021-11-03 01:43:06,099 - INFO - parameters - Trying to set hyper-parameters
+2021-11-03 01:43:06,099 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-03 01:44:13,383 - INFO - et_tuning - ExtraTree Regressor:Best Parameters found.
+2021-11-03 01:44:13,383 - INFO - et_tuning - ExtraTree Regressor:Using best parameter model tuning done.
+2021-11-03 01:44:23,334 - INFO - et_tuning - ExtraTree Regressor:Training data fitted to tuned model.
+2021-11-03 01:44:23,334 - INFO - et_tuning - ExtraTree Regressor:Finding train and test accuracy
+2021-11-03 01:44:26,106 - INFO - et_tuning - ExtraTree Regressor:train accuracy:0.9004767099667379 and Test accuracy: 0.7718251229969055
+2021-11-03 01:44:26,106 - INFO - et_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-03 01:44:26,107 - INFO - et_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.2174180201912375
+2021-11-03 01:44:26,107 - INFO - et_tuning - ExtraTree Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-03 01:44:26,107 - INFO - et_tuning - ExtraTree Regressor:All the details are Succesfully saved into dictionary
+2021-11-03 01:44:26,133 - INFO - parameters - Trying to set hyper-parameters
+2021-11-03 01:44:26,133 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-03 01:44:26,151 - INFO - rf_tuning - RandomForestRegressor: Train-Test Split
+2021-11-03 01:44:26,151 - INFO - rf_tuning - RandomForestRegressor: Model Tuning Started
+2021-11-03 01:46:21,029 - INFO - rf_tuning - RandomForestRegressor: Best parameter found.
+2021-11-03 01:46:43,321 - INFO - rf_tuning - RandomForestRegressor: Success-fit model using best params
+2021-11-03 01:46:43,321 - INFO - rf_tuning - RandomForestRegressor:Finding train and test accuracy
+2021-11-03 01:46:46,323 - INFO - rf_tuning - RandomForest Regressor:train accuracy:0.93558366035582 and Test accuracy: 0.8006081105090839
+2021-11-03 01:46:46,323 - INFO - rf_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-03 01:46:46,324 - INFO - rf_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.20324289323914485
+2021-11-03 01:46:46,324 - INFO - rf_tuning - RandomForest Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-03 01:46:46,325 - INFO - rf_tuning - RandomForest Regressor:All the details are Succesfully saved into dictionary
+2021-11-03 01:46:55,617 - INFO - model_result - Error in finding best modelThe compression protocol can only be inferred when the supplied path is an instance of (<class 'str'>, <class 'bytes'>, <class 'os.PathLike'>). The supplied input path is <_io.BufferedWriter name='./bestmodel/ExtratreeRegressor.pkl'>, and its type is <class '_io.BufferedWriter'>.
+2021-11-03 01:51:09,984 - INFO - __init__ - Started calling Splitting_Scaling file
+2021-11-03 01:51:09,984 - INFO - __init__ - Splitting_Scaling file called Successfully.
+2021-11-03 01:51:09,984 - INFO - model_result - Finding best model..
+2021-11-03 01:51:09,984 - INFO - et_tuning - Train-Test Split
+2021-11-03 01:51:09,999 - INFO - et_tuning - ExtraTree Regressor: Model Tuning Started
+2021-11-03 01:51:09,999 - INFO - parameters - Trying to set hyper-parameters
+2021-11-03 01:51:09,999 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-03 01:52:14,171 - INFO - et_tuning - ExtraTree Regressor:Best Parameters found.
+2021-11-03 01:52:14,171 - INFO - et_tuning - ExtraTree Regressor:Using best parameter model tuning done.
+2021-11-03 01:52:23,956 - INFO - et_tuning - ExtraTree Regressor:Training data fitted to tuned model.
+2021-11-03 01:52:23,956 - INFO - et_tuning - ExtraTree Regressor:Finding train and test accuracy
+2021-11-03 01:52:26,356 - INFO - et_tuning - ExtraTree Regressor:train accuracy:0.9002802671960752 and Test accuracy: 0.7709616305928306
+2021-11-03 01:52:26,356 - INFO - et_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-03 01:52:26,357 - INFO - et_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.2178290240879015
+2021-11-03 01:52:26,357 - INFO - et_tuning - ExtraTree Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-03 01:52:26,357 - INFO - et_tuning - ExtraTree Regressor:All the details are Succesfully saved into dictionary
+2021-11-03 01:52:26,375 - INFO - parameters - Trying to set hyper-parameters
+2021-11-03 01:52:26,376 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-03 01:52:26,388 - INFO - rf_tuning - RandomForestRegressor: Train-Test Split
+2021-11-03 01:52:26,388 - INFO - rf_tuning - RandomForestRegressor: Model Tuning Started
+2021-11-03 01:54:18,061 - INFO - rf_tuning - RandomForestRegressor: Best parameter found.
+2021-11-03 01:54:40,496 - INFO - rf_tuning - RandomForestRegressor: Success-fit model using best params
+2021-11-03 01:54:40,496 - INFO - rf_tuning - RandomForestRegressor:Finding train and test accuracy
+2021-11-03 01:54:43,570 - INFO - rf_tuning - RandomForest Regressor:train accuracy:0.9355840080022509 and Test accuracy: 0.8002398107122148
+2021-11-03 01:54:43,570 - INFO - rf_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-03 01:54:43,571 - INFO - rf_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.203430513162493
+2021-11-03 01:54:43,571 - INFO - rf_tuning - RandomForest Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-03 01:54:43,571 - INFO - rf_tuning - RandomForest Regressor:All the details are Succesfully saved into dictionary
+2021-11-03 01:54:43,600 - INFO - model_result - Error in finding best modelThe compression protocol can only be inferred when the supplied path is an instance of (<class 'str'>, <class 'bytes'>, <class 'os.PathLike'>). The supplied input path is <_io.BufferedWriter name='./bestmodel/ExtratreeRegressor.pkl'>, and its type is <class '_io.BufferedWriter'>.
+2021-11-03 02:05:36,014 - INFO - __init__ - Started calling Splitting_Scaling file
+2021-11-03 02:05:36,014 - INFO - __init__ - Splitting_Scaling file called Successfully.
+2021-11-03 02:05:36,014 - INFO - model_result - Finding best model..
+2021-11-03 02:05:36,014 - INFO - et_tuning - Train-Test Split
+2021-11-03 02:05:36,029 - INFO - et_tuning - ExtraTree Regressor: Model Tuning Started
+2021-11-03 02:05:36,029 - INFO - parameters - Trying to set hyper-parameters
+2021-11-03 02:05:36,029 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-03 02:06:40,379 - INFO - et_tuning - ExtraTree Regressor:Best Parameters found.
+2021-11-03 02:06:40,379 - INFO - et_tuning - ExtraTree Regressor:Using best parameter model tuning done.
+2021-11-03 02:06:50,173 - INFO - et_tuning - ExtraTree Regressor:Training data fitted to tuned model.
+2021-11-03 02:06:50,173 - INFO - et_tuning - ExtraTree Regressor:Finding train and test accuracy
+2021-11-03 02:06:52,574 - INFO - et_tuning - ExtraTree Regressor:train accuracy:0.9005328167830544 and Test accuracy: 0.7716150312336776
+2021-11-03 02:06:52,574 - INFO - et_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-03 02:06:52,575 - INFO - et_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.2175180908612126
+2021-11-03 02:06:52,575 - INFO - et_tuning - ExtraTree Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-03 02:06:52,575 - INFO - et_tuning - ExtraTree Regressor:All the details are Succesfully saved into dictionary
+2021-11-03 02:06:52,594 - INFO - parameters - Trying to set hyper-parameters
+2021-11-03 02:06:52,594 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-03 02:06:52,607 - INFO - rf_tuning - RandomForestRegressor: Train-Test Split
+2021-11-03 02:06:52,607 - INFO - rf_tuning - RandomForestRegressor: Model Tuning Started
+2021-11-03 02:08:43,618 - INFO - rf_tuning - RandomForestRegressor: Best parameter found.
+2021-11-03 02:09:05,715 - INFO - rf_tuning - RandomForestRegressor: Success-fit model using best params
+2021-11-03 02:09:05,715 - INFO - rf_tuning - RandomForestRegressor:Finding train and test accuracy
+2021-11-03 02:09:08,696 - INFO - rf_tuning - RandomForest Regressor:train accuracy:0.93531821532358 and Test accuracy: 0.8004640840273444
+2021-11-03 02:09:08,697 - INFO - rf_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-03 02:09:08,698 - INFO - rf_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.2033162840745712
+2021-11-03 02:09:08,698 - INFO - rf_tuning - RandomForest Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-03 02:09:08,698 - INFO - rf_tuning - RandomForest Regressor:All the details are Succesfully saved into dictionary
+2021-11-06 20:06:36,111 - INFO - __init__ - Started calling Splitting_Scaling file
+2021-11-06 20:06:36,126 - INFO - __init__ - Splitting_Scaling file called Successfully.
+2021-11-06 20:06:36,126 - INFO - model_result - Finding best model..
+2021-11-06 20:06:36,126 - INFO - et_tuning - Train-Test Split
+2021-11-06 20:06:36,407 - INFO - et_tuning - ExtraTree Regressor: Model Tuning Started
+2021-11-06 20:06:36,407 - INFO - parameters - Trying to set hyper-parameters
+2021-11-06 20:06:36,407 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-06 20:08:08,036 - INFO - et_tuning - ExtraTree Regressor:Best Parameters found.
+2021-11-06 20:08:08,036 - INFO - et_tuning - ExtraTree Regressor:Using best parameter model tuning done.
+2021-11-06 20:08:17,915 - INFO - et_tuning - ExtraTree Regressor:Training data fitted to tuned model.
+2021-11-06 20:08:17,915 - INFO - et_tuning - ExtraTree Regressor:Finding train and test accuracy
+2021-11-06 20:08:20,448 - INFO - et_tuning - ExtraTree Regressor:train accuracy:0.8998891402839592 and Test accuracy: 0.7710451721649986
+2021-11-06 20:08:20,448 - INFO - et_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-06 20:08:20,452 - INFO - et_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.21778929397872274
+2021-11-06 20:08:20,452 - INFO - et_tuning - ExtraTree Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-06 20:08:20,452 - INFO - et_tuning - ExtraTree Regressor:All the details are Succesfully saved into dictionary
+2021-11-06 20:08:20,485 - INFO - parameters - Trying to set hyper-parameters
+2021-11-06 20:08:20,485 - INFO - parameters - Hyper-parameters is successfully set.
+2021-11-06 20:08:20,498 - INFO - rf_tuning - RandomForestRegressor: Train-Test Split
+2021-11-06 20:08:20,499 - INFO - rf_tuning - RandomForestRegressor: Model Tuning Started
+2021-11-06 20:10:14,759 - INFO - rf_tuning - RandomForestRegressor: Best parameter found.
+2021-11-06 20:10:37,004 - INFO - rf_tuning - RandomForestRegressor: Success-fit model using best params
+2021-11-06 20:10:37,004 - INFO - rf_tuning - RandomForestRegressor:Finding train and test accuracy
+2021-11-06 20:10:39,955 - INFO - rf_tuning - RandomForest Regressor:train accuracy:0.9357801710864185 and Test accuracy: 0.8013340794633954
+2021-11-06 20:10:39,955 - INFO - rf_tuning - Mean Absolute Error(mae) on Testing Data: None
+2021-11-06 20:10:39,956 - INFO - rf_tuning - Root Mean Squared Error(rsme) on Testing Data: 0.20287256077836005
+2021-11-06 20:10:39,956 - INFO - rf_tuning - RandomForest Regressor:Saving accuracy scores and error metrices into dictionary
+2021-11-06 20:10:39,956 - INFO - rf_tuning - RandomForest Regressor:All the details are Succesfully saved into dictionary

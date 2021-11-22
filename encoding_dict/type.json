@@ -1,0 +1,9 @@
+{
+    "Buffet": 0,
+    "Cafes": 1,
+    "Delivery": 2,
+    "Desserts": 3,
+    "Dine-out": 4,
+    "Drinks & nightlife": 5,
+    "Pubs and bars": 6
+}

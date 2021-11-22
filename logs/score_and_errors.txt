@@ -1,0 +1,84 @@
+2021-10-26 00:27:08,169 - INFO - evaluation_r2_score - Calculating r2 score
+2021-10-26 00:27:08,171 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-10-26 00:27:08,172 - INFO - mae - Calculating mean absolute error
+2021-10-26 00:27:08,172 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-10-26 00:27:08,173 - INFO - rmse - Calculating root mean squared error
+2021-10-26 00:27:08,174 - INFO - rmse - Calculated root mean squared error: --Done
+2021-10-26 00:31:20,929 - INFO - evaluation_r2_score - Calculating r2 score
+2021-10-26 00:31:20,933 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-10-26 00:31:20,934 - INFO - mae - Calculating mean absolute error
+2021-10-26 00:31:20,934 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-10-26 00:31:20,934 - INFO - rmse - Calculating root mean squared error
+2021-10-26 00:31:20,935 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-03 00:09:07,773 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-03 00:09:07,840 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-03 00:09:07,906 - INFO - mae - Calculating mean absolute error
+2021-11-03 00:09:07,906 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-03 00:09:07,906 - INFO - rmse - Calculating root mean squared error
+2021-11-03 00:09:07,910 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-03 00:13:37,247 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-03 00:13:37,248 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-03 00:13:37,248 - INFO - mae - Calculating mean absolute error
+2021-11-03 00:13:37,248 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-03 00:13:37,248 - INFO - rmse - Calculating root mean squared error
+2021-11-03 00:13:37,249 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-03 00:34:10,594 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-03 00:34:10,625 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-03 00:34:10,633 - INFO - mae - Calculating mean absolute error
+2021-11-03 00:34:10,633 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-03 00:34:10,633 - INFO - rmse - Calculating root mean squared error
+2021-11-03 00:34:10,636 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-03 00:39:34,968 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-03 00:39:34,969 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-03 00:39:34,969 - INFO - mae - Calculating mean absolute error
+2021-11-03 00:39:34,969 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-03 00:39:34,970 - INFO - rmse - Calculating root mean squared error
+2021-11-03 00:39:34,971 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-03 01:44:25,794 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-03 01:44:25,894 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-03 01:44:26,106 - INFO - mae - Calculating mean absolute error
+2021-11-03 01:44:26,106 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-03 01:44:26,106 - INFO - rmse - Calculating root mean squared error
+2021-11-03 01:44:26,107 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-03 01:46:46,322 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-03 01:46:46,323 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-03 01:46:46,323 - INFO - mae - Calculating mean absolute error
+2021-11-03 01:46:46,323 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-03 01:46:46,323 - INFO - rmse - Calculating root mean squared error
+2021-11-03 01:46:46,324 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-03 01:52:26,355 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-03 01:52:26,356 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-03 01:52:26,356 - INFO - mae - Calculating mean absolute error
+2021-11-03 01:52:26,356 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-03 01:52:26,356 - INFO - rmse - Calculating root mean squared error
+2021-11-03 01:52:26,357 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-03 01:54:43,569 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-03 01:54:43,570 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-03 01:54:43,570 - INFO - mae - Calculating mean absolute error
+2021-11-03 01:54:43,570 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-03 01:54:43,571 - INFO - rmse - Calculating root mean squared error
+2021-11-03 01:54:43,571 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-03 02:06:52,573 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-03 02:06:52,574 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-03 02:06:52,574 - INFO - mae - Calculating mean absolute error
+2021-11-03 02:06:52,574 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-03 02:06:52,574 - INFO - rmse - Calculating root mean squared error
+2021-11-03 02:06:52,575 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-03 02:09:08,695 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-03 02:09:08,696 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-03 02:09:08,697 - INFO - mae - Calculating mean absolute error
+2021-11-03 02:09:08,697 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-03 02:09:08,697 - INFO - rmse - Calculating root mean squared error
+2021-11-03 02:09:08,698 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-06 20:08:20,317 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-06 20:08:20,427 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-06 20:08:20,448 - INFO - mae - Calculating mean absolute error
+2021-11-06 20:08:20,448 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-06 20:08:20,448 - INFO - rmse - Calculating root mean squared error
+2021-11-06 20:08:20,452 - INFO - rmse - Calculated root mean squared error: --Done
+2021-11-06 20:10:39,953 - INFO - evaluation_r2_score - Calculating r2 score
+2021-11-06 20:10:39,954 - INFO - evaluation_r2_score - Calculated r2 score: --Done
+2021-11-06 20:10:39,955 - INFO - mae - Calculating mean absolute error
+2021-11-06 20:10:39,955 - INFO - mae - Error in calcualating mean absolute error 'Logger' object has no attribute 'create_log_file'
+2021-11-06 20:10:39,955 - INFO - rmse - Calculating root mean squared error
+2021-11-06 20:10:39,956 - INFO - rmse - Calculated root mean squared error: --Done

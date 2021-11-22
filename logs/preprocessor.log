@@ -1,0 +1,147 @@
+2021-10-26 00:24:45,672 - INFO - drop_columns - Dropping columns from data
+2021-10-26 00:24:45,679 - INFO - drop_columns - Columns dropped successfully
+2021-10-26 00:24:45,679 - INFO - drop_null - Dropping null values from data
+2021-10-26 00:24:45,702 - INFO - drop_null - Null values dropped successfully
+2021-10-26 00:24:45,703 - INFO - drop_duplicates - Dropping duplicate values from data
+2021-10-26 00:24:45,734 - INFO - drop_duplicates - Duplicate values dropped successfully
+2021-10-26 00:24:45,796 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-10-26 00:24:45,803 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-10-26 00:24:45,804 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-10-26 00:24:45,806 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-10-26 00:24:45,811 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-10-26 00:24:45,812 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-10-26 00:24:45,814 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-10-26 00:24:45,821 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-10-26 00:24:45,821 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-10-26 00:24:45,824 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-10-26 00:24:45,828 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-10-26 00:24:45,828 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-10-26 00:24:45,831 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-10-26 00:24:45,837 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-10-26 00:24:45,837 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 00:06:26,702 - INFO - drop_columns - Dropping columns from data
+2021-11-03 00:06:26,867 - INFO - drop_columns - Columns dropped successfully
+2021-11-03 00:06:26,868 - INFO - drop_null - Dropping null values from data
+2021-11-03 00:06:26,995 - INFO - drop_null - Null values dropped successfully
+2021-11-03 00:06:26,995 - INFO - drop_duplicates - Dropping duplicate values from data
+2021-11-03 00:06:27,082 - INFO - drop_duplicates - Duplicate values dropped successfully
+2021-11-03 00:06:27,310 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 00:06:27,328 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 00:06:27,329 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 00:06:27,349 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 00:06:27,362 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 00:06:27,362 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 00:06:27,365 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 00:06:27,379 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 00:06:27,379 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 00:06:27,383 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 00:06:27,398 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 00:06:27,398 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 00:06:27,409 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 00:06:27,427 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 00:06:27,427 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 00:31:42,014 - INFO - drop_columns - Dropping columns from data
+2021-11-03 00:31:42,022 - INFO - drop_columns - Columns dropped successfully
+2021-11-03 00:31:42,023 - INFO - drop_null - Dropping null values from data
+2021-11-03 00:31:42,069 - INFO - drop_null - Null values dropped successfully
+2021-11-03 00:31:42,069 - INFO - drop_duplicates - Dropping duplicate values from data
+2021-11-03 00:31:42,132 - INFO - drop_duplicates - Duplicate values dropped successfully
+2021-11-03 00:31:42,250 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 00:31:42,262 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 00:31:42,262 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 00:31:42,366 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 00:31:42,379 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 00:31:42,379 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 00:31:42,407 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 00:31:42,420 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 00:31:42,420 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 00:31:42,423 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 00:31:42,435 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 00:31:42,435 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 00:31:42,438 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 00:31:42,449 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 00:31:42,449 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 01:43:05,904 - INFO - drop_columns - Dropping columns from data
+2021-11-03 01:43:05,941 - INFO - drop_columns - Columns dropped successfully
+2021-11-03 01:43:05,941 - INFO - drop_null - Dropping null values from data
+2021-11-03 01:43:05,962 - INFO - drop_null - Null values dropped successfully
+2021-11-03 01:43:05,962 - INFO - drop_duplicates - Dropping duplicate values from data
+2021-11-03 01:43:05,983 - INFO - drop_duplicates - Duplicate values dropped successfully
+2021-11-03 01:43:06,028 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 01:43:06,033 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 01:43:06,033 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 01:43:06,034 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 01:43:06,040 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 01:43:06,040 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 01:43:06,041 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 01:43:06,045 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 01:43:06,045 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 01:43:06,047 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 01:43:06,051 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 01:43:06,051 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 01:43:06,052 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 01:43:06,057 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 01:43:06,057 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 01:51:09,582 - INFO - drop_columns - Dropping columns from data
+2021-11-03 01:51:09,608 - INFO - drop_columns - Columns dropped successfully
+2021-11-03 01:51:09,608 - INFO - drop_null - Dropping null values from data
+2021-11-03 01:51:09,700 - INFO - drop_null - Null values dropped successfully
+2021-11-03 01:51:09,701 - INFO - drop_duplicates - Dropping duplicate values from data
+2021-11-03 01:51:09,842 - INFO - drop_duplicates - Duplicate values dropped successfully
+2021-11-03 01:51:09,954 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 01:51:09,960 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 01:51:09,960 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 01:51:09,962 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 01:51:09,966 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 01:51:09,966 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 01:51:09,967 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 01:51:09,972 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 01:51:09,972 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 01:51:09,974 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 01:51:09,978 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 01:51:09,978 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 01:51:09,979 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 01:51:09,983 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 01:51:09,983 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 02:05:35,897 - INFO - drop_columns - Dropping columns from data
+2021-11-03 02:05:35,902 - INFO - drop_columns - Columns dropped successfully
+2021-11-03 02:05:35,902 - INFO - drop_null - Dropping null values from data
+2021-11-03 02:05:35,920 - INFO - drop_null - Null values dropped successfully
+2021-11-03 02:05:35,920 - INFO - drop_duplicates - Dropping duplicate values from data
+2021-11-03 02:05:35,940 - INFO - drop_duplicates - Duplicate values dropped successfully
+2021-11-03 02:05:35,984 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 02:05:35,990 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 02:05:35,990 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 02:05:35,991 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 02:05:35,995 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 02:05:35,995 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 02:05:35,996 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 02:05:36,001 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 02:05:36,001 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 02:05:36,002 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 02:05:36,007 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 02:05:36,007 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-03 02:05:36,009 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-03 02:05:36,013 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-03 02:05:36,013 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-06 20:06:35,733 - INFO - drop_columns - Dropping columns from data
+2021-11-06 20:06:35,792 - INFO - drop_columns - Columns dropped successfully
+2021-11-06 20:06:35,792 - INFO - drop_null - Dropping null values from data
+2021-11-06 20:06:35,951 - INFO - drop_null - Null values dropped successfully
+2021-11-06 20:06:35,951 - INFO - drop_duplicates - Dropping duplicate values from data
+2021-11-06 20:06:35,975 - INFO - drop_duplicates - Duplicate values dropped successfully
+2021-11-06 20:06:36,055 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-06 20:06:36,078 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-06 20:06:36,078 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-06 20:06:36,086 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-06 20:06:36,091 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-06 20:06:36,091 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-06 20:06:36,093 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-06 20:06:36,097 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-06 20:06:36,097 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-06 20:06:36,099 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-06 20:06:36,103 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-06 20:06:36,103 - INFO - label_encoding - Label encoding categorical features.. Stored
+2021-11-06 20:06:36,106 - INFO - label_encoding - Label encoding categorical features.. Started
+2021-11-06 20:06:36,110 - INFO - label_encoding - Label encoding categorical features.. Compleated
+2021-11-06 20:06:36,110 - INFO - label_encoding - Label encoding categorical features.. Stored

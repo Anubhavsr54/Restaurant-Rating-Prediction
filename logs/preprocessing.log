@@ -1,0 +1,126 @@
+2021-10-26 00:24:45,564 - INFO - preprocess_data - Start preprocessing data
+2021-10-26 00:24:45,565 - INFO - preprocess_data - Loading data... Started
+2021-10-26 00:24:45,666 - INFO - preprocess_data - Data loaded... Completed
+2021-10-26 00:24:45,666 - INFO - preprocess_data - Renaming COlumn name.. Strated
+2021-10-26 00:24:45,672 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-10-26 00:24:45,672 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-10-26 00:24:45,679 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-10-26 00:24:45,679 - INFO - preprocess_data - Dropping null values... Started
+2021-10-26 00:24:45,702 - INFO - preprocess_data - Null values dropped... Completed
+2021-10-26 00:24:45,703 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-10-26 00:24:45,734 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-10-26 00:24:45,734 - INFO - preprocess_data - Removing comma from cost column... Started
+2021-10-26 00:24:45,753 - INFO - preprocess_data - Removing comma from cost column... Completed
+2021-10-26 00:24:45,795 - INFO - preprocess_data - Target column created... Completed
+2021-10-26 00:24:45,796 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-10-26 00:24:45,839 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-10-26 00:24:45,839 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-10-26 00:24:45,839 - INFO - preprocess_data - Saving dataframe as csv file... Completed
+2021-11-03 00:06:25,457 - INFO - preprocess_data - Start preprocessing data
+2021-11-03 00:06:25,524 - INFO - preprocess_data - Loading data... Started
+2021-11-03 00:06:26,529 - INFO - preprocess_data - Data loaded... Completed
+2021-11-03 00:06:26,529 - INFO - preprocess_data - Renaming COlumn name.. Strated
+2021-11-03 00:06:26,701 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-11-03 00:06:26,702 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-11-03 00:06:26,868 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-11-03 00:06:26,868 - INFO - preprocess_data - Dropping null values... Started
+2021-11-03 00:06:26,995 - INFO - preprocess_data - Null values dropped... Completed
+2021-11-03 00:06:26,995 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-11-03 00:06:27,082 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-11-03 00:06:27,082 - INFO - preprocess_data - Removing comma from cost column... Started
+2021-11-03 00:06:27,176 - INFO - preprocess_data - Removing comma from cost column... Completed
+2021-11-03 00:06:27,309 - INFO - preprocess_data - Target column created... Completed
+2021-11-03 00:06:27,310 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-11-03 00:06:27,434 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-11-03 00:06:27,434 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-11-03 00:06:27,434 - INFO - preprocess_data - Saving dataframe as csv file... Completed
+2021-11-03 00:31:41,771 - INFO - preprocess_data - Start preprocessing data
+2021-11-03 00:31:41,771 - INFO - preprocess_data - Loading data... Started
+2021-11-03 00:31:42,006 - INFO - preprocess_data - Data loaded... Completed
+2021-11-03 00:31:42,006 - INFO - preprocess_data - Renaming Column name.. Started
+2021-11-03 00:31:42,014 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-11-03 00:31:42,014 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-11-03 00:31:42,022 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-11-03 00:31:42,022 - INFO - preprocess_data - Dropping null values... Started
+2021-11-03 00:31:42,069 - INFO - preprocess_data - Null values dropped... Completed
+2021-11-03 00:31:42,069 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-11-03 00:31:42,132 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-11-03 00:31:42,132 - INFO - preprocess_data - Removing comma from cost column... Started
+2021-11-03 00:31:42,169 - INFO - preprocess_data - Removing comma from cost column... Completed
+2021-11-03 00:31:42,249 - INFO - preprocess_data - Target column created... Completed
+2021-11-03 00:31:42,249 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-11-03 00:31:42,450 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-11-03 00:31:42,450 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-11-03 00:31:42,450 - INFO - preprocess_data - Saving dataframe as csv file... Completed
+2021-11-03 01:43:05,670 - INFO - preprocess_data - Start preprocessing data
+2021-11-03 01:43:05,685 - INFO - preprocess_data - Loading data... Started
+2021-11-03 01:43:05,883 - INFO - preprocess_data - Data loaded... Completed
+2021-11-03 01:43:05,883 - INFO - preprocess_data - Renaming Column name.. Started
+2021-11-03 01:43:05,904 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-11-03 01:43:05,904 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-11-03 01:43:05,941 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-11-03 01:43:05,941 - INFO - preprocess_data - Dropping null values... Started
+2021-11-03 01:43:05,962 - INFO - preprocess_data - Null values dropped... Completed
+2021-11-03 01:43:05,962 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-11-03 01:43:05,983 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-11-03 01:43:05,983 - INFO - preprocess_data - Removing comma from cost column... Started
+2021-11-03 01:43:05,997 - INFO - preprocess_data - Removing comma from cost column... Completed
+2021-11-03 01:43:06,028 - INFO - preprocess_data - Target column created... Completed
+2021-11-03 01:43:06,028 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-11-03 01:43:06,058 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-11-03 01:43:06,058 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-11-03 01:43:06,058 - INFO - preprocess_data - Saving dataframe as csv file... Completed
+2021-11-03 01:51:08,256 - INFO - preprocess_data - Start preprocessing data
+2021-11-03 01:51:08,256 - INFO - preprocess_data - Loading data... Started
+2021-11-03 01:51:09,579 - INFO - preprocess_data - Data loaded... Completed
+2021-11-03 01:51:09,579 - INFO - preprocess_data - Renaming Column name.. Started
+2021-11-03 01:51:09,582 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-11-03 01:51:09,582 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-11-03 01:51:09,608 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-11-03 01:51:09,608 - INFO - preprocess_data - Dropping null values... Started
+2021-11-03 01:51:09,700 - INFO - preprocess_data - Null values dropped... Completed
+2021-11-03 01:51:09,700 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-11-03 01:51:09,842 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-11-03 01:51:09,842 - INFO - preprocess_data - Removing comma from cost column... Started
+2021-11-03 01:51:09,873 - INFO - preprocess_data - Removing comma from cost column... Completed
+2021-11-03 01:51:09,954 - INFO - preprocess_data - Target column created... Completed
+2021-11-03 01:51:09,954 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-11-03 01:51:09,984 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-11-03 01:51:09,984 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-11-03 01:51:09,984 - INFO - preprocess_data - Saving dataframe as csv file... Completed
+2021-11-03 02:05:35,784 - INFO - preprocess_data - Start preprocessing data
+2021-11-03 02:05:35,784 - INFO - preprocess_data - Loading data... Started
+2021-11-03 02:05:35,894 - INFO - preprocess_data - Data loaded... Completed
+2021-11-03 02:05:35,894 - INFO - preprocess_data - Renaming Column name.. Started
+2021-11-03 02:05:35,897 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-11-03 02:05:35,897 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-11-03 02:05:35,902 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-11-03 02:05:35,902 - INFO - preprocess_data - Dropping null values... Started
+2021-11-03 02:05:35,920 - INFO - preprocess_data - Null values dropped... Completed
+2021-11-03 02:05:35,920 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-11-03 02:05:35,940 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-11-03 02:05:35,940 - INFO - preprocess_data - Removing comma from cost column... Started
+2021-11-03 02:05:35,954 - INFO - preprocess_data - Removing comma from cost column... Completed
+2021-11-03 02:05:35,984 - INFO - preprocess_data - Target column created... Completed
+2021-11-03 02:05:35,984 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-11-03 02:05:36,014 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-11-03 02:05:36,014 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-11-03 02:05:36,014 - INFO - preprocess_data - Saving dataframe as csv file... Completed
+2021-11-06 20:06:35,274 - INFO - preprocess_data - Start preprocessing data
+2021-11-06 20:06:35,281 - INFO - preprocess_data - Loading data... Started
+2021-11-06 20:06:35,612 - INFO - preprocess_data - Data loaded... Completed
+2021-11-06 20:06:35,612 - INFO - preprocess_data - Renaming Column name.. Started
+2021-11-06 20:06:35,732 - INFO - preprocess_data - Renaming COlumn name.. Compleated
+2021-11-06 20:06:35,732 - INFO - preprocess_data - Dropping unwanted columns... Started
+2021-11-06 20:06:35,792 - INFO - preprocess_data - Unwanted columns dropped... Completed
+2021-11-06 20:06:35,792 - INFO - preprocess_data - Dropping null values... Started
+2021-11-06 20:06:35,951 - INFO - preprocess_data - Null values dropped... Completed
+2021-11-06 20:06:35,951 - INFO - preprocess_data - Dropping duplicate values... Started
+2021-11-06 20:06:35,976 - INFO - preprocess_data - Duplicate values dropped... COmpeted
+2021-11-06 20:06:35,976 - INFO - preprocess_data - Removing comma from cost column... Started
+2021-11-06 20:06:36,005 - INFO - preprocess_data - Removing comma from cost column... Completed
+2021-11-06 20:06:36,055 - INFO - preprocess_data - Target column created... Completed
+2021-11-06 20:06:36,055 - INFO - preprocess_data - Encoding categorical columns... Started
+2021-11-06 20:06:36,111 - INFO - preprocess_data - Encoding categorical columns... Completed
+2021-11-06 20:06:36,111 - INFO - preprocess_data - Saving dataframe as csv file... Started
+2021-11-06 20:06:36,111 - INFO - preprocess_data - Saving dataframe as csv file... Completed
